@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"color": "green", "stroke-width": 0, "stroke-opacity": 0, "fill": "#ff0000", "fill-opacity": 0.5},
+      "properties": {"color": "green", "stroke-width": 0, "stroke-opacity": 0, "fill": "green", "fill-opacity": 0.5},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
